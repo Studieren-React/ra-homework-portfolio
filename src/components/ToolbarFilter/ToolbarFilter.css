@@ -1,0 +1,13 @@
+.ToolbarFilter {
+    padding: 6px 18px;
+    border: #646cff 1px solid;
+    cursor: pointer;
+}
+
+.ToolbarFilterActive {
+    padding: 6px 18px;
+    border: #646cff 1px solid;
+    background-color: #646cff;
+    color: white;
+    cursor: pointer;
+}
